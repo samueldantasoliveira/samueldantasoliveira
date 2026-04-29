@@ -1,4 +1,4 @@
-### Hey there 😄
+### Hey there 🤠
 
 
 <a href="https://www.linkedin.com/in/samuel-dantas-de-oliveira/">
