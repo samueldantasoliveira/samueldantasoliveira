@@ -2,31 +2,40 @@
 
 Desenvolvedor Back-end Júnior com foco em C# e .NET.
 
-Formado em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul, com experiência em APIs REST, bancos SQL e NoSQL e desenvolvimento de aplicações back-end.
+Formado em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul, com foco em APIs REST, bancos SQL e NoSQL e aplicações back-end organizadas em arquitetura em camadas.
+
 
 ## Tecnologias
 
-- C#
-- ASP.NET Core
-- .NET
-- JavaScript
-- Node.js
-- SQL Server
-- MongoDB
-- Git
+• Backend: C#, .NET, ASP.NET Core, Node.js
+
+• Banco de Dados: SQL Server, MongoDB
+
+• Testes: xUnit
+
+• Ferramentas: Git, GitHub
+
+• APIs REST
+
 
 ## Projetos em destaque
 
-### [Taskly](https://github.com/samueldantasoliveira/Taskly)
-API REST para gerenciamento de tarefas e times desenvolvida com ASP.NET Core e MongoDB.
+### [Taskly API](https://github.com/samueldantasoliveira/Taskly)
+API REST para gerenciamento de tarefas e equipes desenvolvida com ASP.NET Core e MongoDB.
 
 Principais conceitos aplicados:
-- arquitetura em camadas
-- services e repositories
-- testes unitários
-- soft delete
-- DTOs
-- organização de domínio
+
+• arquitetura em camadas (Controllers, Application, Domain e Infrastructure)
+
+• separação de responsabilidades
+
+• padrão Repository
+
+• DTOs
+
+• soft delete
+
+• testes unitários com xUnit
 
 ### [API de Simulação de Contas do GitHub](https://github.com/samueldantasoliveira/github-account-simulator-api)
 Projeto desenvolvido com Node.js, Express e SQLite para prática de rotas, persistência de dados e lógica back-end.
