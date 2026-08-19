@@ -1,44 +1,43 @@
 # Samuel Dantas de Oliveira
 
-Desenvolvedor Back-end Júnior com foco em C# e .NET.
-
-Formado em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul, com foco em APIs REST, bancos SQL e NoSQL e aplicações back-end organizadas em arquitetura em camadas.
+Engenheiro de Software formado em Análise e Desenvolvimento de Sistemas pela FATEC São Caetano do Sul, com foco em desenvolvimento back-end utilizando C# e .NET, APIs REST, bancos de dados SQL e NoSQL e arquitetura em camadas.
 
 
 ## 🚀 Tecnologias
 
-• Backend: C#, .NET, ASP.NET Core, Node.js
+• Back-end: C#, .NET, ASP.NET Core, Node.js e APIs REST
 
-• Banco de Dados: SQL Server, MongoDB
+• Banco de Dados: SQL Server, SQLite e MongoDB
 
-• Testes: xUnit
+• Testes: xUnit, Moq, testes unitários e de integração
 
-• Ferramentas: Git, GitHub
+• Ferramentas: Git e GitHub
 
-• APIs REST
+• Containers: Podman
 
 
 ## 📌 Projetos em destaque
 
 ### [Taskly API](https://github.com/samueldantasoliveira/Taskly)
-API REST para gerenciamento de tarefas e equipes desenvolvida com ASP.NET Core e MongoDB.
+API para gerenciamento de tarefas e equipes desenvolvida com ASP.NET Core e MongoDB.
 
 Principais conceitos aplicados:
 
-• arquitetura em camadas (Controllers, Application, Domain e Infrastructure)
+• Arquitetura em camadas (Controllers, Application, Domain e Infrastructure)
 
-• separação de responsabilidades
+• Separação de responsabilidades
 
-• padrão Repository
+• Padrão Repository
 
 • DTOs
 
-• soft delete
+• Soft delete
 
-• testes unitários com xUnit
+• Testes unitários e de integração com xUnit e Moq
+
 
 ### [API de Simulação de Contas do GitHub](https://github.com/samueldantasoliveira/github-account-simulator-api)
-Projeto desenvolvido com Node.js, Express e SQLite para prática de rotas, persistência de dados e lógica back-end.
+Projeto desenvolvido com Node.js, Express e SQLite, explorando implementação de APIs REST, persistência de dados e lógica de negócio.
 
 ## 📫 Contato
 
